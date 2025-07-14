@@ -1,0 +1,6 @@
+__pycache__/
+*.db
+*.csv
+.venv/
+.idea/
+*.pyc
